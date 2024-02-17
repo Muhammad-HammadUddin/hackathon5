@@ -1,0 +1,50 @@
+.hero{
+    height:400px !important;
+}
+nav>.logo>img{
+    margin-right: 140px !important;
+}
+nav li{
+    font-size: 20px;
+    color: white;
+}
+.container-fluid img{
+
+}
+.nav{
+    background-color: aqua !important;
+}
+
+
+.hero-1{
+    margin-top: 20px;
+}
+.mycard1 img{
+
+    height:200px !important;
+}
+.mycard1 {
+    margin-top: 30px;
+}
+.mycard1 a{
+   align-self: center;
+}
+h1{
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+.mycard2 img{
+
+    height:200px !important;
+}
+.mycard2{
+    margin-top: 10px;
+}
+.card:hover{
+
+    box-shadow: 2px 2px 2px 2px grey;
+}
+footer{
+    margin-top: 20px;
+    color: white !important;
+}
